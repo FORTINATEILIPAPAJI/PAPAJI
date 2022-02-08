@@ -1,0 +1,1 @@
+spisok = [spisok2, spisok3]
